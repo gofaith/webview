@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/webview/webview"
+	"github.com/gofaith/webview"
 )
 
 const account = "CloudNativeFdn"
